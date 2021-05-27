@@ -1,0 +1,31 @@
+.pechenka
+{display: inline-block;
+	width:18%;
+	background-color: #FFD700;
+	height: 150px;
+	margin: 15px;
+	border-radius: 999999999999999999999999999999999999999999999px;                          
+}
+img
+{width: 150px;
+	border-radius: 999999999999999999999999999999999999999999999px;
+}
+h1
+{
+ color:#32CD32;
+ text-align: center;
+}
+.NeznayClass
+{
+	width:100%;
+	text-align: center;
+	border-style:solid;
+	border-width:10px;
+	border-color: #800000;
+	padding: 30px;
+}
+p 
+{ color:#4169E1;
+	background-color:#4169E1;
+}
+div 
